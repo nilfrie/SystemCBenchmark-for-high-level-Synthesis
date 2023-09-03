@@ -1,0 +1,13 @@
+﻿  arctan.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\arctan\arctan\arctan.cpp(24,34): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\arctan\arctan\arctan.cpp(25,49): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\arctan\arctan\arctan.cpp(26,42): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\arctan\arctan\arctan.cpp(27,49): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  tb_arctan.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\arctan\arctan\tb_arctan.cpp(60,27): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+  Generating Code...
+  arctan.vcxproj -> C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\arctan\x64\Debug\arctan.exe

@@ -1,0 +1,9 @@
+﻿  cordic.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\cordic\cordic\cordic.cpp(24,21): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\cordic\cordic\cordic.cpp(25,21): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\cordic\cordic\cordic.cpp(29,21): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\cordic\cordic\cordic.cpp(30,22): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\cordic\cordic\cordic.cpp(34,22): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\cordic\cordic\cordic.cpp(35,21): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+  cordic.vcxproj -> C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\cordic\x64\Debug\cordic.exe

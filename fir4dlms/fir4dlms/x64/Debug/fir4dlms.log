@@ -1,0 +1,6 @@
+﻿  fir4dlms.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\fir4dlms\fir4dlms\fir4dlms.cpp(28,21): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\fir4dlms\fir4dlms\fir4dlms.cpp(33,21): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\fir4dlms\fir4dlms\fir4dlms.cpp(76,18): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+  fir4dlms.vcxproj -> C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\fir4dlms\x64\Debug\fir4dlms.exe

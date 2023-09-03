@@ -1,0 +1,4 @@
+﻿  tb_fir_srg.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\fir_srg\Module_fir_srg\tb_fir_srg.cpp(71,19): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+  Module_fir_srg.vcxproj -> C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\fir_srg\x64\Debug\Module_fir_srg.exe

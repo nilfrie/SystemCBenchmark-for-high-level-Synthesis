@@ -1,0 +1,4 @@
+﻿  tb_sqrt.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\sqrt\sqrt\tb_sqrt.cpp(78,20): warning C4244: '=': conversion from 'sc_dt::uint_type' to 'unsigned int', possible loss of data
+  sqrt.vcxproj -> C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\sqrt\x64\Debug\sqrt.exe

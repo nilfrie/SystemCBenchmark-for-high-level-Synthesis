@@ -1,0 +1,8 @@
+﻿  fir_gen.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\fir_gen\fir_gen\fir_gen.cpp(35,21): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\fir_gen\fir_gen\fir_gen.cpp(74,20): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Generating Code...
+  fir_gen.vcxproj -> C:\Users\nfrie\Documents\GitHub\SystemC-Benchmark-for-High-Level-Synthesis\fir_gen\x64\Debug\fir_gen.exe
